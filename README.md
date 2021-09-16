@@ -2,7 +2,7 @@
 
 ### Hi There 👋🏼
 
-- I'm Robson Bastos (●'◡'●)
+- I'm Robson Bastos (⌐■_■)
 
 - 😍 I'm self-taught learner
 - ☕ I love learning all about JAVA and..
