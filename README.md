@@ -40,6 +40,6 @@
   <a href="https://www.linkedin.com/in/robson-b-santos-9438b2114/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/TheRobh12/TheRobh12/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/TheRobh12/blob/output/github-contribution-grid-snake.svg)
      
 </div>
