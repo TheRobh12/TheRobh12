@@ -6,7 +6,7 @@
 
 - 😍 I'm self-taught learner
 - ☕ I love learning all about JAVA and..
-- 😎 Kotlin, SprindBoot, React Native, Typescript
+- 😎 Kotlin, SpringBoot, React Native, Typescript
 - 😉 Python, CSS3, HTML5, Javascript, PostgreSQL
 - 💪🏽 Xamarin, C#, Adobe and much more!
 
