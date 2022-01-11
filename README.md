@@ -4,8 +4,6 @@
 
 - I'm Robson Bastos (⌐■_■)
 
-- Olá eu Sou Robson
-
 - 😍 I'm self-taught learner
 - ☕ I love learning all about JAVA and..
 - 😎 Kotlin, SpringBoot, React Native, Typescript
@@ -17,7 +15,7 @@
 <div>
   <a href="https://github.com/TheRobh12">
    
-  <img height="180em" src=/>
+  <img height="180em" src=https://github-readme-stats.vercel.app/api?username=https://github.com/TheRobh12/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRobh12&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
